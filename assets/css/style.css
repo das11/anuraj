@@ -124,6 +124,7 @@ form.signup input.form-control:focus {
 #wrapper {
 	text-align: center;
 	background: url(../img/IMG-20210530-WA0042.jpg) no-repeat center top;
+	object-fit: contain;
 	background-attachment: relative;
 	background-position: center center;
   box-sizing:border;
